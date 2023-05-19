@@ -1,9 +1,2 @@
- Hi, I’m @franliendro.
- I'm begginer.
- I’m currently learning Web Development.
-
- Escribo tambien en español para incluir mas informacion sobre mi, soy un estudiante de informatica cual busca expandir sus conocimientos sobre esta area.
- 
- Actualmente ando cursando ArgentinaPrograma 1ra etapa.
- 
- Dejo mi instagram para mejor comunicacion franlie19.
+ Hola soy Francisco, estudiante y practicante de Diseño y Desarrollo FrontEnd, las tecnologias que manejo son HTML, CSS y JS. En este perfil encontraran proyectos que incluyen mis practicas y avances.
+ Tengo 20 años, soy Argentino y me gusta todo lo que tenga que ver con la creatividad, tambien quiero expandirme mas alla del front end y poder dedicarme a lo que es el 3D, AR y VR
