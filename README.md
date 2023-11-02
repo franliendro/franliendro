@@ -1,3 +1,2 @@
- Hola soy Francisco, estudiante y practicante de Diseño y Desarrollo FrontEnd, las tecnologias que manejo son HTML, CSS y JS. En este perfil encontraran proyectos que incluyen mis practicas y avances.
- Tengo 20 años, soy Argentino y me gusta todo lo que tenga que ver con la creatividad, tambien quiero expandirme mas alla del front end y poder dedicarme a lo que es el 3D, AR y VR
- Actualmente me encuentro estudiando Unity y C# para realizar entornos virtuales y videojuegos :)
+Hola mi nombre es Francisco Liendro, estudio la carrera de Programacion en la Universidad Nacional de Salta y Desarrollo y diseño de videojuegos en la Universidad Provincial de la Administración Tecnología y Oficios. Me estoy adentrando a lo que es Unreal Engine y Unity, para poder realizar proyectos que me permitan avanzar en la industria. Actualmente poseo conocimientos en cuanto a la programacion web y maquetado basico de videojuegos con Unity durante la participacion de GameJams.
+Estoy abierto a escuchar proyectos y a colaborar con lo que pueda que este dentro de mis conocimientos, gracias.
